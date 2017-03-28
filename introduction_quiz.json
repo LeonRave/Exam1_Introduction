@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Infraestructura de hardware y software a traves de diversas tecnologias que permiten almacenar y procesar datos."
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "A que la informacion generada (Big data) proviene de diferentes tipos de datos, pudiendo ser estructurados, no estructurados y semisetsructurados."
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Tener un data set con tidy data, manejar un code book que menciona cada variable y su valor en le data set, asi mismo como se hizo el mapeo de los datos."
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "Json, txt, xml, csv."
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "Es el hecho de extraer informacion de paginas en la web por medio de herramientas de programacion."
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "Debido a que la informacion proviene de diversas fuentes, es necesario unificar la informacion para que el usuario final o la empresa que usara la informacion lo vea como un todo. Regularmente usando herramientas de ETL."
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "Es el hecho de manipular los datos a fin de obtener nueva informacion util para algun contexto."
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "La integracion, limpieza, transformacion y posterior procesamiento de los datos."
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "La integracion, limpieza, transformacion y posterior procesamiento de los datos."
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "Poder ofrecer datos bajo demanda, es decir que el usuario pueda obtenerlos en el momento que lo desee a travez de la nube."
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "Bajo la misma premisa, es poder ofrecer servicios de almacenamiento de datos bajo demanda."
+		},
+		{
+			"question": "What is data analysis?",
+			"answer": "Engloba todos los pasos necesarios para la obtencion de datos que se puedan analizar bajo algun algoritmo reporducible, y que culmine con la obtencion de datos utiles."
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "El analisis de sentimientos de comentarios en redes sociales, bajo la necesidad de conocer que tan bien recibido es un producto, la toma de desiciones en base a los resultados obtenidos de la proyeccion de algun producto, etc."
+		}
+	]	
+}
